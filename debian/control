@@ -1,0 +1,13 @@
+Source: ros-crystal-rqt-action
+Section: misc
+Priority: extra
+Maintainer: Mikael Arguedas <mikael@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-crystal-ros-workspace, python3-all, python3-setuptools
+Homepage: http://wiki.ros.org/rqt_action
+Standards-Version: 3.9.2
+
+Package: ros-crystal-rqt-action
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-crystal-python-qt-binding (>= 0.2.19), ros-crystal-rclpy, ros-crystal-rqt-gui, ros-crystal-rqt-gui-py, ros-crystal-rqt-msg, ros-crystal-rqt-py-common, ros-crystal-ros-workspace
+Description: rqt_action provides a feature to introspect all available ROS action types.
+ By utilizing rqt_msg, the output format is unified with it and rqt_srv. Note that the actions shown on this plugin is the ones that are stored on your machine, not on the ROS core your rqt instance connects to.
