@@ -1,0 +1,13 @@
+Source: ros-humble-rqt-action
+Section: misc
+Priority: optional
+Maintainer: Audrow Nash <audrow@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: http://wiki.ros.org/rqt_action
+Standards-Version: 3.9.2
+
+Package: ros-humble-rqt-action
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-humble-python-qt-binding (>= 0.2.19), ros-humble-rclpy, ros-humble-rqt-gui, ros-humble-rqt-gui-py, ros-humble-rqt-msg, ros-humble-rqt-py-common, ros-humble-ros-workspace
+Description: rqt_action provides a feature to introspect all available ROS action types.
+ By utilizing rqt_msg, the output format is unified with it and rqt_srv. Note that the actions shown on this plugin is the ones that are stored on your machine, not on the ROS core your rqt instance connects to.
