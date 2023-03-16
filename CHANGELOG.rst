@@ -2,31 +2,13 @@
 Changelog for package rqt_action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-2.1.2 (2023-02-14)
+1.0.2 (2023-03-16)
 ------------------
-* [rolling] Update maintainers - 2022-11-07 (`#14 <https://github.com/ros-visualization/rqt_action/issues/14>`_)
-* Contributors: Audrow Nash
-
-2.1.1 (2022-11-02)
-------------------
-* Small cleanups to the rqt_action plugin (`#13 <https://github.com/ros-visualization/rqt_action/issues/13>`_)
-* Mirror rolling to ros2
-* Contributors: Audrow Nash, Chris Lalancette
-
-2.1.0 (2022-05-10)
-------------------
-
-2.0.1 (2022-01-14)
-------------------
-* Update maintainers (`#12 <https://github.com/ros-visualization/rqt_action/issues/12>`_)
-* Fix modern setuptools warning about dashes instead of underscores (`#11 <https://github.com/ros-visualization/rqt_action/issues/11>`_)
-* Contributors: Audrow Nash, Chris Lalancette
-
-2.0.0 (2021-03-18)
-------------------
-* Updated Open Robotics maintainer
+* revert to 1.0.1, so that new changes are only on rolling
+* Merge pull request `#9 <https://github.com/ros-visualization/rqt_action/issues/9>`_ from ros-visualization/update_maintainers_crystal
+* update Open Robotics maintainer
 * Fixed package to run with ros2 run (`#8 <https://github.com/ros-visualization/rqt_action/issues/8>`_)
-* Contributors: Alejandro Hernández Cordero, Mabel Zhang
+* Contributors: Alejandro Hernández Cordero, Mabel Zhang, William Woodall
 
 1.0.1 (2019-03-05)
 ------------------
