@@ -1,0 +1,241 @@
+ros-iron-rqt-action (2.1.2-3bullseye) bullseye; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#14 <https://github.com/ros-visualization/rqt_action/issues/14>)
+  * Contributors: Audrow Nash
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 13 Feb 2023 16:00:00 -0000
+
+ros-iron-rqt-action (2.1.1-3bullseye) bullseye; urgency=high
+
+  * Small cleanups to the rqt_action plugin (#13 <https://github.com/ros-visualization/rqt_action/issues/13>)
+  * Mirror rolling to ros2
+  * Contributors: Audrow Nash, Chris Lalancette
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 01 Nov 2022 16:00:00 -0000
+
+ros-iron-rqt-action (2.1.0-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 09 May 2022 16:00:00 -0000
+
+ros-iron-rqt-action (2.0.1-3bullseye) bullseye; urgency=high
+
+  * Update maintainers (#12 <https://github.com/ros-visualization/rqt_action/issues/12>)
+  * Fix modern setuptools warning about dashes instead of underscores (#11 <https://github.com/ros-visualization/rqt_action/issues/11>)
+  * Contributors: Audrow Nash, Chris Lalancette
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 13 Jan 2022 16:00:00 -0000
+
+ros-iron-rqt-action (2.0.0-3bullseye) bullseye; urgency=high
+
+  * Updated Open Robotics maintainer
+  * Fixed package to run with ros2 run (#8 <https://github.com/ros-visualization/rqt_action/issues/8>)
+  * Contributors: Alejandro Hernández Cordero, Mabel Zhang
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 17 Mar 2021 16:00:00 -0000
+
+ros-iron-rqt-action (1.0.1-3bullseye) bullseye; urgency=high
+
+  * updating package.xml to ros2 (#6 <https://github.com/ros-visualization/rqt_action/issues/6>)
+  * Contributors: Mike Lautman
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 04 Mar 2019 16:00:00 -0000
+
+ros-iron-rqt-action (1.0.0-3bullseye) bullseye; urgency=high
+
+  * Porting rqt_action to ROS2 (#4 <https://github.com/ros-visualization/rqt_action/issues/4>)
+  * autopep8 (#3 <https://github.com/ros-visualization/rqt_action/issues/3>)
+  * Contributors: Mike Lautman, brawner
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 03 Mar 2019 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.9-3bullseye) bullseye; urgency=high
+
+  * Add gbiggs as maintainer (#2 <https://github.com/ros-visualization/rqt_action/issues/2>)
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 18 May 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.8-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 26 Apr 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.7-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 01 Mar 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.6-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 26 Feb 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.5-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 02 Feb 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.4-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 23 Jan 2017 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.3-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 01 Nov 2016 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.2-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 18 Sep 2016 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.1-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 15 May 2016 16:00:00 -0000
+
+ros-iron-rqt-action (0.4.0-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 26 Apr 2016 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.13-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 07 Mar 2016 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.12-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 23 Jul 2015 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.11-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 29 Apr 2015 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.10-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 30 Sep 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.9-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 17 Aug 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.8-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 14 Jul 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.7-3bullseye) bullseye; urgency=high
+
+  * export architecture_independent flag in package.xml (#254 <https://github.com/ros-visualization/rqt_common_plugins/issues/254>)
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 10 Jul 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.6-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 01 Jun 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.5-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 06 May 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.4-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 27 Jan 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.3-3bullseye) bullseye; urgency=high
+
+  * add groups for rqt plugins, renamed some plugins (#167 <https://github.com/ros-visualization/rqt_common_plugins/issues/167>)
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 07 Jan 2014 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.2-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Sun, 13 Oct 2013 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.1-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 08 Oct 2013 16:00:00 -0000
+
+ros-iron-rqt-action (0.3.0-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 27 Aug 2013 16:00:00 -0000
+
+ros-iron-rqt-action (0.2.17-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 03 Jul 2013 16:00:00 -0000
+
+ros-iron-rqt-action (0.2.16-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Tue, 09 Apr 2013 05:33:00 -0000
+
+ros-iron-rqt-action (0.2.15-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 08 Apr 2013 16:02:00 -0000
+
+ros-iron-rqt-action (0.2.14-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Wed, 13 Mar 2013 16:00:00 -0000
+
+ros-iron-rqt-action (0.2.13-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 11 Mar 2013 14:14:00 -0000
+
+ros-iron-rqt-action (0.2.12-3bullseye) bullseye; urgency=high
+
+
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Mon, 11 Mar 2013 05:56:00 -0000
+
+ros-iron-rqt-action (0.2.11-3bullseye) bullseye; urgency=high
+
+  * Now depends on rqt_msg to eliminate GUI files from this package
+  * Fix; IndexError: list index out of range (#26 <https://github.com/ros-visualization/rqt_common_plugins/issues/26>)
+  * first release of this package into groovy
+
+ -- Geoffrey Biggs <geoff@openrobotics.org>  Thu, 07 Mar 2013 16:00:00 -0000
+
+
