@@ -1,0 +1,12 @@
+Source: ros-iron-rqt-action
+Section: misc
+Priority: optional
+Maintainer: Geoffrey Biggs <geoff@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-flake8 <!nocheck>, ros-iron-ament-xmllint <!nocheck>, ros-iron-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: http://wiki.ros.org/rqt_action
+Standards-Version: 3.9.2
+
+Package: ros-iron-rqt-action
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-iron-rqt-gui, ros-iron-rqt-gui-py, ros-iron-rqt-msg, ros-iron-rqt-py-common, ros-iron-ros-workspace
+Description: rqt_action provides a feature to introspect all available ROS action types.
