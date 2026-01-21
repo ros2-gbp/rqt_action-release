@@ -1,3 +1,26 @@
+## rqt_action (jazzy) - 2.2.1-1
+
+The packages in the `rqt_action` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --track jazzy --rosdistro jazzy rqt_action` on `Wed, 21 Jan 2026 22:20:57 -0000`
+
+The `rqt_action` package was released.
+
+Version of package(s) in repository `rqt_action`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_action.git
+- release repository: https://github.com/ros2-gbp/rqt_action-release.git
+- rosdistro version: `2.2.0-3`
+- old version: `2.2.0-3`
+- new version: `2.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_action (rolling) - 2.4.1-1
 
 The packages in the `rqt_action` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling rqt_action` on `Wed, 30 Jul 2025 12:06:18 -0000`
