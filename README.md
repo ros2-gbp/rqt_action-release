@@ -1,3 +1,26 @@
+## rqt_action (rolling) - 3.0.1-1
+
+The packages in the `rqt_action` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling rqt_action` on `Thu, 22 Oct 2026 09:07:56 -0000`
+
+The `rqt_action` package was released.
+
+Version of package(s) in repository `rqt_action`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_action.git
+- release repository: https://github.com/ros2-gbp/rqt_action-release.git
+- rosdistro version: `3.0.0-1`
+- old version: `3.0.0-1`
+- new version: `3.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.14.4`
+- catkin_pkg version: `1.1.1`
+- rosdep version: `0.27.0`
+- rosdistro version: `1.1.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_action (lyrical) - 2.5.0-1
 
 The packages in the `rqt_action` repository were released into the `lyrical` distro by running `/usr/bin/bloom-release --rosdistro lyrical --track lyrical rqt_action` on `Wed, 06 May 2026 14:56:58 -0000`
