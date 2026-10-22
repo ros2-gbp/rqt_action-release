@@ -2,6 +2,11 @@
 Changelog for package rqt_action
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.1 (2026-10-22)
+------------------
+* Added missing deps and python3 improvements (`#23 <https://github.com/ros-visualization/rqt_action/issues/23>`_)
+* Contributors: Alejandro Hernández Cordero
+
 3.0.0 (2026-05-06)
 ------------------
 
